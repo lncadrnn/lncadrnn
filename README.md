@@ -1,16 +1,23 @@
-## Hi there 👋
+# 💻 Lance Adrian Acal | BSCS Student
 
-<!--
-**lncadrnn/lncadrnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** passionate about **technology, problem-solving, and continuous learning**. I strive to **improve my skills** and explore different areas of **software development** to make a meaningful impact.
 
-Here are some ideas to get you started:
+### 📌 What I'm Exploring  
+- 📚 **Programming Fundamentals** – Strengthening my understanding of core programming concepts.  
+- 🔍 **Software Development** – Learning about different technologies and best practices.
+- 📊 **Data Science & Analytics** – Exploring data processing, visualization, and basic analysis.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools  
+- **Programming Languages**: Python, C++, Java (basic)  
+- **Development Tools**: Git, GitHub, VSCode (basic)
+- **Data Science & Analytics**: Excel, Google Sheets, Data Visualization
+
+### 🏆 Achievements
+- 🎓 **GitHub Student Developer Pack** Member
+- 📜 **[Direcho Trabaho: Data Science in the Modern World](your_certificate_link_here)** – Issued by [Direcho Trabaho](https://www.facebook.com/direchotrabaho)
+
+### 📫 Connect With Me  
+- GitHub: [@lncadrnn](https://github.com/lncadrnn)  
+- Email: [lanceadrn.acal@gmail.com](mailto:lanceadrn.acal@gmail.com)  
+
