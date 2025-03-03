@@ -10,7 +10,6 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
 - 📊 **Data Science & Analytics** – Exploring data processing, visualization, and basic analysis.  
 
 ### 🛠️ Skills & Tools  
-# 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -19,15 +18,17 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ### 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=lncadrnn&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lncadrnn&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+</p>
+
 
 ## 🎓 Achievements 
-📜 **[My Certificates Repository](https://github.com/lncadrnn/certificates)**  
+📜 [![Certificates](https://img.shields.io/badge/View%20Certificates-%230A66C2.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/lncadrnn/certificates)
 
 ### 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lncadrnn) 
