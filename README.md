@@ -17,17 +17,25 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
 ## Tech Stack
 
 <p align="center">
+## Tech Stack
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canva_Logo.png" alt="Canva" width="50" height="50"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/022/100/657/non_2x/microsoft-excel-logo-transparent-free-png.png" alt="Excel" width="50" height="50"/>
+  <img src="https://logohistory.net/wp-content/uploads/2023/07/Canva-Emblem.png" alt="Canva" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="filter: invert(1);"/>
 </p>
+
+<p align="center">
+  <b>C++ | Java | Python | HTML5 | CSS3 | MySQL | Excel | Canva | Figma | GitHub</b>
+</p>
+
 
 <p align="center">
   <b>C++ | Java | Python | HTML5 | CSS3 | MySQL | Excel | Canva | Figma | GitHub</b>
