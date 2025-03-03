@@ -21,7 +21,7 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
   <img src="https://static.vecteezy.com/system/resources/previews/022/100/657/non_2x/microsoft-excel-logo-transparent-free-png.png" alt="Excel" width="50" height="50"/>
   <img src="https://i.pinimg.com/originals/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.png" alt="Canva" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
-  <img src="https://pngimg.com/uploads/github/github_PNG80.png" alt="GitHub" width="50" height="50"/>
+  <img src="[https://pngimg.com/uploads/github/github_PNG80.png](https://th.bing.com/th/id/R.8742c08278ff26549bdaf9c743d36af2?rik=Ah%2fXuQF1IgnrwQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2fgithub%2fsmall%2fgithub_PNG63.png&ehk=Hh2OzbsdfXVXAS8D6lsvolMkYw94LhwnjmjieETNLPg%3d&risl=&pid=ImgRaw&r=0)" alt="GitHub" width="50" height="50"/>
 </p>
 
 <p align="center" style="font-weight:bold;">
