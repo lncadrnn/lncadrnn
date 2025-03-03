@@ -15,10 +15,11 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
 - **Development Tools**: Git, GitHub, VSCode (basic)
 - **Data Science & Analytics**: Excel, Google Sheets, Data Visualization
 
-### 🏆 Achievements
-- 🎓 **GitHub Student Developer Pack** Member  
-- 📜 **[Direcho Trabaho: Data Science in the Modern World](https://raw.githubusercontent.com/lncadrnn/certificates/main/Data%20Science%20Certificate.pdf)** – Issued by [Direcho Trabaho](https://www.facebook.com/direchotrabaho) | [Website](https://direchotrabaho.com)  
-- 📜 **[Coding Clique: A Basic Web Development Bootcamp for Beginners](https://raw.githubusercontent.com/lncadrnn/certificates/main/Basic%20Web%20Development%20Certificate.pdf)** – Hosted by [Zuitt - Tech Career Program](https://www.facebook.com/zuitttechcareer) | [Website](https://zuitt.co)  
+## 🎓 Certifications  
+
+I have received certifications in various technical fields. You can view all my certificates in my dedicated repository:  
+
+📜 **[My Certificates Repository](https://github.com/lncadrnn/certificates)**  
 
 ### 📫 Connect With Me  
 - GitHub: [@lncadrnn](https://github.com/lncadrnn)
