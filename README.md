@@ -9,9 +9,7 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
 - 🌐 **Web Development** – Building web applications and improving front-end & back-end skills.
 - 📊 **Data Science & Analytics** – Exploring data processing, visualization, and basic analysis.  
 
-### 🛠️ Skills & Tools  
-
-## Tech Stack
+### 🛠️ Skills & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
@@ -23,11 +21,11 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
   <img src="https://static.vecteezy.com/system/resources/previews/022/100/657/non_2x/microsoft-excel-logo-transparent-free-png.png" alt="Excel" width="50" height="50"/>
   <img src="https://i.pinimg.com/originals/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.png" alt="Canva" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
-  <img src="https://www.pngitem.com/pimgs/m/128-1280311_github-icon-white-png-github-icon-black-background.png" alt="GitHub" width="50" height="50"/>
+  <img src="https://pngimg.com/uploads/github/github_PNG80.png" alt="GitHub" width="50" height="50"/>
 </p>
 
-<p align="center">
-  <b>C++ | Java | Python | HTML5 | CSS3 | MySQL | Excel | Canva | Figma | GitHub</b>
+<p align="center" style="font-weight:bold;">
+  C++ &nbsp;|&nbsp; Java &nbsp;|&nbsp; Python &nbsp;|&nbsp; HTML5 &nbsp;|&nbsp; CSS3 &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; Excel &nbsp;|&nbsp; Canva &nbsp;|&nbsp; Figma &nbsp;|&nbsp; GitHub
 </p>
 
 ### 📊 GitHub Stats:
