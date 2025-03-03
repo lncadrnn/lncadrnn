@@ -11,7 +11,9 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
 
 ### 🛠️ Skills & Tools  
 
-<p align="left">
+## Tech Stack
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
@@ -19,12 +21,12 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://static.vecteezy.com/system/resources/previews/022/100/657/non_2x/microsoft-excel-logo-transparent-free-png.png" alt="Excel" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="50" height="50"/>
+  <img src="https://i.pinimg.com/originals/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.png" alt="Canva" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
-  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="GitHub" width="50" height="50"/>
+  <img src="https://www.pngitem.com/pimgs/m/128-1280311_github-icon-white-png-github-icon-black-background.png" alt="GitHub" width="50" height="50"/>
 </p>
 
-<p align="left">
+<p align="center">
   <b>C++ | Java | Python | HTML5 | CSS3 | MySQL | Excel | Canva | Figma | GitHub</b>
 </p>
 
