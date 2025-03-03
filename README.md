@@ -10,16 +10,26 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
 - 📊 **Data Science & Analytics** – Exploring data processing, visualization, and basic analysis.  
 
 ### 🛠️ Skills & Tools  
-- **Programming Languages**: Python, C++, Java (basic)
-- **Web Development**: HTML, CSS (basic) 
-- **Development Tools**: Git, GitHub, VSCode (basic)
-- **Data Science & Analytics**: Excel, Google Sheets, Data Visualization
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+
+### 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=lncadrnn&theme=dark&hide_border=false)<br/>
 
 ## 🎓 Achievements 
 📜 **[My Certificates Repository](https://github.com/lncadrnn/certificates)**  
 
 ### 📫 Connect With Me  
-- GitHub: [@lncadrnn](https://github.com/lncadrnn)
-- LinkedIn: [Lance Adrian Acal](https://www.linkedin.com/in/lncadrnn)  
-- Email: [lanceadrn.acal@gmail.com](mailto:lanceadrn.acal@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lncadrnn) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lanceadrn.acal@gmail.com) 
 
