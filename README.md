@@ -15,10 +15,7 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
 - **Development Tools**: Git, GitHub, VSCode (basic)
 - **Data Science & Analytics**: Excel, Google Sheets, Data Visualization
 
-## 🎓 Certifications  
-
-I have received certifications in various technical fields. You can view all my certificates in my dedicated repository:  
-
+## 🎓 Achievements 
 📜 **[My Certificates Repository](https://github.com/lncadrnn/certificates)**  
 
 ### 📫 Connect With Me  
