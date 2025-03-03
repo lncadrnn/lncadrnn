@@ -14,49 +14,24 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
 
 ## Tech Stack
 
+## Tech Stack
+
 <p align="center">
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-    <figcaption align="center">C++</figcaption>
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-    <figcaption align="center">Java</figcaption>
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-    <figcaption align="center">Python</figcaption>
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-    <figcaption align="center">HTML5</figcaption>
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-    <figcaption align="center">CSS3</figcaption>
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-    <figcaption align="center">MySQL</figcaption>
-  </figure>
-  <figure>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50" height="50"/>
-    <figcaption align="center">Excel</figcaption>
-  </figure>
-  <figure>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_logo.svg" alt="Canva" width="50" height="50"/>
-    <figcaption align="center">Canva</figcaption>
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
-    <figcaption align="center">Figma</figcaption>
-  </figure>
-  <figure>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="filter: invert(1);"/>
-    <figcaption align="center">GitHub</figcaption>
-  </figure>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canva_Logo.png" alt="Canva" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="filter: invert(1);"/>
 </p>
 
+<p align="center">
+  <b>C++ | Java | Python | HTML5 | CSS3 | MySQL | Excel | Canva | Figma | GitHub</b>
+</p>
 
 ### 📊 GitHub Stats:
 <p align="center">
