@@ -10,14 +10,6 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
 - 📊 **Data Science & Analytics** – Exploring data processing, visualization, and basic analysis.  
 
 ### 🛠️ Skills & Tools  
-## Tech Stack
-
-## Tech Stack
-
-## Tech Stack
-
-<p align="center">
-## Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
@@ -27,17 +19,12 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://static.vecteezy.com/system/resources/previews/022/100/657/non_2x/microsoft-excel-logo-transparent-free-png.png" alt="Excel" width="50" height="50"/>
-  <img src="https://logohistory.net/wp-content/uploads/2023/07/Canva-Emblem.png" alt="Canva" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="filter: invert(1);"/>
+  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="GitHub" width="50" height="50"/>
 </p>
 
-<p align="center">
-  <b>C++ | Java | Python | HTML5 | CSS3 | MySQL | Excel | Canva | Figma | GitHub</b>
-</p>
-
-
-<p align="center">
+<p align="left">
   <b>C++ | Java | Python | HTML5 | CSS3 | MySQL | Excel | Canva | Figma | GitHub</b>
 </p>
 
