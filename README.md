@@ -26,8 +26,6 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
   C++ &nbsp;|&nbsp; Java &nbsp;|&nbsp; Python &nbsp;|&nbsp; HTML5 &nbsp;|&nbsp; CSS3 &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; GitHub
 </p>
 
-<br>
-
 #### **📌 Intermediate**  
 <p align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/022/100/657/non_2x/microsoft-excel-logo-transparent-free-png.png" alt="Excel" width="50" height="50"/>
@@ -39,7 +37,6 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
   Excel &nbsp;|&nbsp; Canva &nbsp;|&nbsp; Figma
 </p>
 
-<br>
 
 ### 📊 GitHub Stats:
 <p align="center">
