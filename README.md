@@ -39,6 +39,8 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
   Excel &nbsp;|&nbsp; Canva &nbsp;|&nbsp; Figma
 </p>
 
+---
+
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lncadrnn&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
