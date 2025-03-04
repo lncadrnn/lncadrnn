@@ -9,8 +9,9 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
 - 🌐 **Web Development** – Building web applications and improving front-end & back-end skills.
 - 📊 **Data Science & Analytics** – Exploring data processing, visualization, and basic analysis.  
 
-### 🛠️ Skills & Tools
+### **🛠️ Skills & Tools**  
 
+#### **📌 Beginner**  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
@@ -18,14 +19,24 @@ Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://static.vecteezy.com/system/resources/previews/022/100/657/non_2x/microsoft-excel-logo-transparent-free-png.png" alt="Excel" width="50" height="50"/>
-  <img src="https://i.pinimg.com/originals/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.png" alt="Canva" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
   <img src="https://pngimg.com/uploads/github/small/github_PNG63.png" alt="GitHub" width="50" height="50"/>
 </p>
 
 <p align="center" style="font-weight:bold;">
-  C++ &nbsp;|&nbsp; Java &nbsp;|&nbsp; Python &nbsp;|&nbsp; HTML5 &nbsp;|&nbsp; CSS3 &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; Excel &nbsp;|&nbsp; Canva &nbsp;|&nbsp; Figma &nbsp;|&nbsp; GitHub
+  C++ &nbsp;|&nbsp; Java &nbsp;|&nbsp; Python &nbsp;|&nbsp; HTML5 &nbsp;|&nbsp; CSS3 &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; GitHub
+</p>
+
+---
+
+#### **📌 Intermediate**  
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/022/100/657/non_2x/microsoft-excel-logo-transparent-free-png.png" alt="Excel" width="50" height="50"/>
+  <img src="https://i.pinimg.com/originals/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.png" alt="Canva" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+</p>
+
+<p align="center" style="font-weight:bold;">
+  Excel &nbsp;|&nbsp; Canva &nbsp;|&nbsp; Figma
 </p>
 
 ### 📊 GitHub Stats:
