@@ -30,7 +30,7 @@ Currently, I'm diving into **Java** and setting my sights on the exciting world 
 
 #### **📌 Intermediate**  
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/022/100/657/non_2x/microsoft-excel-logo-transparent-free-png.png" alt="Excel" width="70" height="70"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/022/100/657/non_2x/microsoft-excel-logo-transparent-free-png.png" alt="Excel" width="70" height="50"/>
   <img src="https://i.pinimg.com/originals/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.png" alt="Canva" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
 </p>
