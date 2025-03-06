@@ -1,7 +1,9 @@
 # 💻 Lance Adrian Acal | BSCS Student
 
 ### 🚀 About Me  
-Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** passionate about **technology, problem-solving, and continuous learning**. I strive to **improve my skills** and explore different areas of **Computer Science** to make a meaningful impact.
+Hi there! I'm **Lance Adrian Acal**, a **third-year Computer Science student** and I'm passionate about learning and continuously improving my **programming skills**. With a knack for problem-solving, I dedicate myself to studying and exploring new technologies to **build a brighter future**.
+
+Currently, I'm diving into **Java** and setting my sights on the exciting world of **data analysis and data science** for my next steps. My journey in Computer Science is driven by curiosity, determination, and the aspiration to make a meaningful impact.
 
 ### 📌 What I'm Exploring  
 - 📚 **Programming Fundamentals** – Strengthening my understanding of core programming concepts.  
