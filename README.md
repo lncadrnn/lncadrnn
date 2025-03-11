@@ -44,6 +44,10 @@ Currently, I'm diving into **Java** and setting my sights on the exciting world 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lncadrnn&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
+<p align="center">
+ ![](https://nirzak-streak-stats.vercel.app/?user=lncadrnn&theme=dark&hide_border=false)<br/>
+</p>
+
 
 ## 🎓 Achievements 
 [![Certificates](https://img.shields.io/badge/View%20Certificates-%230A66C2.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/lncadrnn/certificates)
