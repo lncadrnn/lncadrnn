@@ -7,8 +7,8 @@ Currently, I'm diving into **Java** and setting my sights on the exciting world 
 
 ### 📌 What I'm Exploring  
 - 📚 **Programming Fundamentals** – Strengthening my understanding of core programming concepts.  
-- 🔍 **Software Development** – Learning about different technologies and best practices.
-- 🌐 **Web Development** – Building web applications and improving front-end & back-end skills.
+- 🔍 **Software Development** – Learning about different technologies and best practices.  
+- 🌐 **Web Development** – Building web applications and improving front-end & back-end skills.  
 - 📊 **Data Science & Analytics** – Exploring data processing, visualization, and basic analysis.  
 
 ### **🛠️ Skills & Tools**  
@@ -22,10 +22,11 @@ Currently, I'm diving into **Java** and setting my sights on the exciting world 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://pngimg.com/uploads/github/small/github_PNG63.png" alt="GitHub" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
 </p>
 
 <p align="center" style="font-weight:bold;">
-  C++ &nbsp;|&nbsp; Java &nbsp;|&nbsp; Python &nbsp;|&nbsp; HTML5 &nbsp;|&nbsp; CSS3 &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; GitHub
+  C++ &nbsp;|&nbsp; Java &nbsp;|&nbsp; Python &nbsp;|&nbsp; HTML5 &nbsp;|&nbsp; CSS3 &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; Power BI
 </p>
 
 #### **📌 Intermediate**  
@@ -38,7 +39,6 @@ Currently, I'm diving into **Java** and setting my sights on the exciting world 
 <p align="center" style="font-weight:bold;">
   Excel &nbsp;|&nbsp; Canva &nbsp;|&nbsp; Figma
 </p>
-
 
 ### 📊 GitHub Stats:
   
@@ -53,5 +53,4 @@ Currently, I'm diving into **Java** and setting my sights on the exciting world 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lncadrnn) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lanceadrn.acal@gmail.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black)](https://github.com/lncadrnn)
-
 
