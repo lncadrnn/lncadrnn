@@ -40,11 +40,14 @@ Currently, I'm diving into **Java** and setting my sights on the exciting world 
   Excel &nbsp;|&nbsp; Canva &nbsp;|&nbsp; Figma
 </p>
 
-### 📊 Statistics:
+### **📊 Github Stats:**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lncadrnn&layout=compact&theme=dark" alt="Top Langs" width="450"/>
 </p>
+
+
+### **🔝 Top Languages:**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lncadrnn&theme=dark" alt="GitHub Streak Stats"/>
