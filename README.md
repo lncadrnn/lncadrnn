@@ -43,16 +43,14 @@ Currently, I'm diving into **Java** and setting my sights on the exciting world 
 ### **📊 Github Stats:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lncadrnn&layout=compact&theme=dark" alt="Top Langs" width="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lncadrnn&theme=dark" alt="GitHub Streak Stats" width="300"/>
 </p>
-
 
 ### **🔝 Top Languages:**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lncadrnn&theme=dark" alt="GitHub Streak Stats" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lncadrnn&layout=compact&theme=dark" alt="Top Langs" width="300"/>
 </p>
-
 
 ## 🎓 Achievements 
 [![Certificates](https://img.shields.io/badge/View%20Certificates-%230A66C2.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/lncadrnn/certificates)
