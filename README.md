@@ -47,7 +47,7 @@ Currently, I'm diving into **Java** and setting my sights on the exciting world 
 </p>
 
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lncadrnn&layout=compact&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lncadrnn&layout=compact&theme=dark)" alt="Top Languages"/>
 </p>
 
 ## 🎓 Achievements 
