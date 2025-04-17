@@ -44,7 +44,8 @@ Currently, I'm diving into **Java** and setting my sights on the exciting world 
   
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lncadrnn&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
-
+</p>
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lncadrnn&layout=compact&theme=dark)
 </p>
 
