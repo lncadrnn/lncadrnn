@@ -15,22 +15,34 @@ I specialize in **data analysis, visualization, and extraction**, using Python, 
 ### **🛠️ Tech Stack**  
 
 <p align="center">
-  <img src="./icons/python.svg" alt="Python" width="50" height="50"/>
-  <img src="./icons/mysql.svg" alt="SQL" width="50" height="50"/>
-  <img src="./icons/microsoft-excel.svg" alt="Excel" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  <img src="./icons/git.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="./icons/pandas.svg" alt="Pandas" width="50" height="50"/>
   <img src="./icons/matplotlib.svg" alt="Matplotlib" width="50" height="50"/>
   <img src="./icons/seaborn.svg" alt="Seaborn" width="50" height="50"/>
 </p>
 
-## 🎓 Achievements 
-[![Certificates](https://img.shields.io/badge/View%20Certificates-%230A66C2.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/lncadrnn/certificates)
+## 📫 Connect With Me  
+<p align="center">
+  <a href="https://lanceadrianacal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white&style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/lncadrnn"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:lanceadrn.acal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
+  <a href="https://github.com/lncadrnn"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"></a>
+</p>
 
-### 📫 Connect With Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://lanceadrianacal.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lncadrnn) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lanceadrn.acal@gmail.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black)](https://github.com/lncadrnn)
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lncadrnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lncadrnn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lncadrnn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
