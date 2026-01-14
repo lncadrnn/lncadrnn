@@ -15,14 +15,14 @@ I specialize in **data analysis, visualization, and extraction**, using Python, 
 ### **🛠️ Tech Stack**  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
-  <img src="https://static.vecteezy.com/system/resources/previews/022/100/657/non_2x/microsoft-excel-logo-transparent-free-png.png" alt="Excel" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
-  <img src="https://pngimg.com/uploads/github/small/github_PNG63.png" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/pandas.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/matplotlib.svg" alt="Matplotlib" width="50" height="50"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="50" height="50"/>
+  <img src="./icons/python.svg" alt="Python" width="50" height="50"/>
+  <img src="./icons/mysql.svg" alt="SQL" width="50" height="50"/>
+  <img src="./icons/microsoft-excel.svg" alt="Excel" width="50" height="50"/>
+  <img src="./icons/powerbi.svg" alt="Power BI" width="50" height="50"/>
+  <img src="./icons/git.svg" alt="Git" width="50" height="50"/>
+  <img src="./icons/pandas.svg" alt="Pandas" width="50" height="50"/>
+  <img src="./icons/matplotlib.svg" alt="Matplotlib" width="50" height="50"/>
+  <img src="./icons/seaborn.svg" alt="Seaborn" width="50" height="50"/>
 </p>
 
 ## 🎓 Achievements 
