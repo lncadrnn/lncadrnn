@@ -18,7 +18,7 @@ I specialize in **data analysis, visualization, and extraction**, using Python, 
   <img src="./icons/python.svg" alt="Python" width="50" height="50"/>
   <img src="./icons/mysql.svg" alt="SQL" width="50" height="50"/>
   <img src="./icons/microsoft-excel.svg" alt="Excel" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   <img src="./icons/git.svg" alt="Git" width="50" height="50"/>
   <img src="./icons/pandas.svg" alt="Pandas" width="50" height="50"/>
   <img src="./icons/matplotlib.svg" alt="Matplotlib" width="50" height="50"/>
