@@ -1,3 +1,4 @@
+# ![Cover Photo](images/cover-photo.jpg)
 # Lance Adrian Acal | Data Analytics & Science
 
 ### 🚀 About Me  
