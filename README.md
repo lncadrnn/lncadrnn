@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0f1419&center=true&vCenter=true&width=600&lines=Welcome+to+my+Data+Portfolio!;Let's+turn+data+into+insights!" alt="Typing SVG" />
+</p>
 # ![Cover Photo](images/cover-photo.jpg)
 # Lance Adrian Acal | Data Analytics & Science
 
@@ -18,12 +21,12 @@ I specialize in **data analysis, visualization, and extraction**, using Python, 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
-  <img src="./icons/microsoft-excel.svg" alt="Excel" width="50" height="50"/>
+  <img src="./images/microsoft-excel.svg" alt="Excel" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="./icons/pandas.svg" alt="Pandas" width="50" height="50"/>
-  <img src="./icons/matplotlib.svg" alt="Matplotlib" width="50" height="50"/>
-  <img src="./icons/seaborn.svg" alt="Seaborn" width="50" height="50"/>
+  <img src="./images/pandas.svg" alt="Pandas" width="50" height="50"/>
+  <img src="./images/matplotlib.svg" alt="Matplotlib" width="50" height="50"/>
+  <img src="./images/seaborn.svg" alt="Seaborn" width="50" height="50"/>
 </p>
 
 ## 📫 Connect With Me  
