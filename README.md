@@ -16,23 +16,25 @@
 
 ## About Me
 
-I currently have hands-on experience in data science and analytics, and I enjoy building practical projects that solve real problems.
+I have hands-on experience in data science and analytics, with a focus on building practical projects that solve real-world problems. My work includes data processing, visualization, and dashboard creation using tools such as Python (Pandas, Matplotlib, Seaborn), Excel, and Power BI.
 
-I do not have direct ML or AI engineering experience yet, but that is my long-term direction. I am actively learning the foundations needed to get there through consistent project work, strong fundamentals, and deliberate practice.
+Alongside data work, I also build websites, mobile applications, and system-based solutions, often using AI-assisted workflows to move efficiently from idea to working output. This allows me to create projects that combine functionality, structured data, and usability.
 
-I am also interested in AI-assisted development and prompt engineering to build smarter workflows without skipping the fundamentals.
+I am currently working toward machine learning and AI engineering, strengthening my foundation through project-based learning, core fundamentals, and continuous practice.
+
+I also explore AI-assisted development and prompt engineering to improve workflow efficiency while maintaining a strong understanding of underlying concepts.
 
 ## Current Focus
 
-- Data science projects with end-to-end execution.
-- Strong foundations in Python, data handling, and problem solving.
-- Structured learning path toward ML and AI engineering roles.
-- AI-assisted development and prompt engineering for practical productivity.
+- Building end-to-end data science projects, from data cleaning to visualization and insights.
+- Strengthening fundamentals in Python, data handling, and problem solving
+- Following a structured path toward machine learning and AI engineering roles
+- Exploring AI-assisted development and prompt engineering for more efficient and practical workflows
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,r,git,vscode,github&theme=dark" alt="Core Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,r,git,vscode,github,jupyter&theme=dark" alt="Core Tech Icons" />
 </p>
 
 <p align="center">
@@ -42,6 +44,11 @@ I am also interested in AI-assisted development and prompt engineering to build 
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge" alt="Seaborn" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 </p>
 
 ## GitHub Language Activity
