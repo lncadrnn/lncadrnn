@@ -44,6 +44,13 @@ I also explore AI-assisted development and prompt engineering to improve workflo
   <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge" alt="Seaborn" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JUPYTER-1F2430?style=for-the-badge" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/PANDAS-1F2430?style=for-the-badge" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NUMPY-1F2430?style=for-the-badge" alt="NumPy" />
+  <img src="https://img.shields.io/badge/REACT_NATIVE-1F2430?style=for-the-badge" alt="React Native" />
+</p>
+
 ## GitHub Language Activity
 
 <table align="center">
