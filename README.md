@@ -40,15 +40,15 @@ I also explore AI-assisted development and prompt engineering to improve workflo
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge" alt="Seaborn" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JUPYTER-1F2430?style=for-the-badge" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/PANDAS-1F2430?style=for-the-badge" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NUMPY-1F2430?style=for-the-badge" alt="NumPy" />
-  <img src="https://img.shields.io/badge/REACT_NATIVE-1F2430?style=for-the-badge" alt="React Native" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
 ## GitHub Language Activity
