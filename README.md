@@ -34,7 +34,7 @@ I also explore AI-assisted development and prompt engineering to improve workflo
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,r,git,vscode,github,jupyter&theme=dark" alt="Core Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,r,java,react,git,vscode,github&theme=dark" alt="Core Tech Icons" />
 </p>
 
 <p align="center">
@@ -44,6 +44,11 @@ I also explore AI-assisted development and prompt engineering to improve workflo
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge" alt="Seaborn" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
 ## GitHub Language Activity
