@@ -5,7 +5,7 @@
 <h1 align="center">Lance Adrian Acal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1100&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Science+Practitioner;Exploring+ML%2C+AI%2C+and+Prompt+Engineering;Future+ML+or+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1100&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Science+Practitioner;Exploring+ML%2C+AI%2C+and+Prompt+Engineering;AI-Assisted+Development+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
