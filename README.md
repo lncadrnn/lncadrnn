@@ -34,11 +34,10 @@ I also explore AI-assisted development and prompt engineering to improve workflo
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,r,git,vscode,github&theme=dark" alt="Core Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,r,git,vscode,github,jupyter&theme=dark" alt="Core Tech Icons" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="44" height="44" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
