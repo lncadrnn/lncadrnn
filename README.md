@@ -1,36 +1,42 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Data+Portfolio!;Let's+turn+data+into+insights!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+Data+Science+Portfolio!;Future+ML+or+AI+Engineer+in+progress!" alt="Typing SVG" />
 </p>
 
 # ![Cover Photo](images/cover-photo.jpg)
-# Lance Adrian Acal | Data Analytics & Science
+# Lance Adrian Acal | Exploring AI, ML, and Intelligent Development
 
-### 🚀 About Me  
-Hi there! I'm **Lance Adrian Acal**, a **Computer Science student at Cavite State University - Imus** and a **passionate aspiring data analyst and data scientist** dedicated to uncovering insights from data and transforming them into actionable business intelligence. With a strong foundation in Computer Science and hands-on experience with modern data tools, I'm committed to solving complex problems through **data-driven decision making**.
+### About Me  
+Hi there! I'm **Lance Adrian Acal**, a **Computer Science student at Cavite State University - Imus** with current experience in **data science** and analytics.
 
-I specialize in **data analysis, visualization, and extraction**, using Python, SQL, and Power BI to tell compelling stories with data. My journey is fueled by curiosity to understand patterns, drive impact through analytics, and continuously expand my expertise in the data ecosystem.
+I do not have hands-on experience in ML or AI engineering yet, but those are my long-term goals. For now, I focus on strengthening fundamentals, building practical projects, and improving my workflow through **AI-assisted development**. I'm also actively interested in **prompt engineering** and how to design effective prompts for real workflows.
 
-### 📌 My Focus Areas  
-- 📈 **Data Analysis & Exploration** – Discovering patterns, trends, and insights from datasets.  
-- 🎨 **Data Visualization** – Creating compelling dashboards and visual narratives with Power BI and Python.  
-- 🐍 **Python for Data** – Leveraging Pandas, Matplotlib, and Seaborn for advanced analysis.  
-- 💾 **SQL & Database Querying** – Writing efficient queries and managing data workflows.  
-- 📊 **Business Intelligence** – Building interactive dashboards and reporting solutions.  
+### My Focus Areas  
+- **Data Science Practice** - Applying my current experience in data science and analytics to practical projects.  
+- **ML and AI Learning Path** - Building foundations now as preparation for future ML or AI engineering roles.  
+- **AI-Assisted Development** - Improving development speed with AI tools while keeping strong technical fundamentals.  
+- **Prompt Engineering** - Crafting and iterating prompts to improve output quality, reliability, and workflow efficiency.  
+- **Python for Intelligent Systems** - Using Python and core data libraries as a foundation for ML and AI workflows.  
 
-### **🛠️ Tech Stack**  
+### Tech Stack  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
-  <img src="./images/microsoft-excel.svg" alt="Excel" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="./images/pandas.svg" alt="Pandas" width="50" height="50"/>
-  <img src="./images/matplotlib.svg" alt="Matplotlib" width="50" height="50"/>
-  <img src="./images/seaborn.svg" alt="Seaborn" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="42" height="42" />
+  <img src="./images/microsoft-excel.svg" alt="Excel" width="42" height="42" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" height="42" />
+  <img src="./images/pandas.svg" alt="Pandas" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="42" height="42" />
+  <img src="./images/matplotlib.svg" alt="Matplotlib" width="42" height="42" />
+  <img src="./images/seaborn.svg" alt="Seaborn" width="42" height="42" />
 </p>
 
-## 📫 Connect With Me  
+<p align="center">
+  Python | SQL | Excel | Power BI | R | Git | Pandas | NumPy | Matplotlib | Seaborn
+</p>
+
+## Connect With Me  
 <p align="center">
   <a href="https://lanceadrianacal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white&style=for-the-badge" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/lncadrnn"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
