@@ -31,55 +31,30 @@ I am also interested in AI-assisted development and prompt engineering to build 
 
 ## Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" /><br />
-      Python
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" /><br />
-      SQL
-    </td>
-    <td align="center" width="100">
-      <img src="images/microsoft-excel.svg" alt="Excel" width="40" height="40" /><br />
-      Excel
-    </td>
-    <td align="center" width="100">
-      <img src="images/powerbi.svg" alt="Power BI" width="40" height="40" /><br />
-      Power BI
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40" /><br />
-      R
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" /><br />
-      Git
-    </td>
-    <td align="center" width="100">
-      <img src="images/pandas.svg" alt="Pandas" width="40" height="40" /><br />
-      Pandas
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" /><br />
-      NumPy
-    </td>
-    <td align="center" width="100">
-      <img src="images/matplotlib.svg" alt="Matplotlib" width="40" height="40" /><br />
-      Matplotlib
-    </td>
-    <td align="center" width="100">
-      <img src="images/seaborn.svg" alt="Seaborn" width="40" height="40" /><br />
-      Seaborn
-    </td>
-  </tr>
-</table>
+<h3 align="center">Interface & Core</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,r,git,vscode,github&theme=dark" alt="Core Tech Icons" />
+</p>
+
+<h3 align="center">Data & Analytics</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge" alt="Seaborn" />
+</p>
+
+## GitHub Language Activity
 
 <p align="center">
-  Python | SQL | Excel | Power BI | R | Git | Pandas | NumPy | Matplotlib | Seaborn
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lncadrnn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lncadrnn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  This section updates automatically from my public GitHub activity and language usage.
 </p>
 
 ## Connect With Me
