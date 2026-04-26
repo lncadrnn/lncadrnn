@@ -31,12 +31,10 @@ I am also interested in AI-assisted development and prompt engineering to build 
 
 ## Tech Stack
 
-<h3 align="center">Interface & Core</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,r,git,vscode,github&theme=dark" alt="Core Tech Icons" />
 </p>
 
-<h3 align="center">Data & Analytics</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI" />
