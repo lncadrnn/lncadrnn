@@ -34,10 +34,11 @@ I also explore AI-assisted development and prompt engineering to improve workflo
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,r,git,vscode,github,jupyter&theme=dark" alt="Core Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,r,git,vscode,github&theme=dark" alt="Core Tech Icons" />
 </p>
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="44" height="44" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -46,17 +47,18 @@ I also explore AI-assisted development and prompt engineering to improve workflo
   <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge" alt="Seaborn" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-</p>
-
 ## GitHub Language Activity
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lncadrnn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lncadrnn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=lncadrnn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="middle">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lncadrnn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   This section updates automatically from my public GitHub activity and language usage.
