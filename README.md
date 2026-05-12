@@ -51,23 +51,6 @@ I also explore AI-assisted development and prompt engineering to improve workflo
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge" alt="React Native" />
 </p>
 
-## GitHub Language Activity
-
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=lncadrnn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td align="center" valign="middle">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lncadrnn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  This section updates automatically from my public GitHub activity and language usage.
-</p>
-
 ## Connect With Me
 
 <p align="center">
