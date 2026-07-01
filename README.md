@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Computer Science Student at Cavite State University - Imus
+  Computer Science Student at Cavite State University - Imus | Data Analyst Intern at S.P. Madrid & Associates
 </p>
 
 ---
